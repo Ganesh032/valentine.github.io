@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentine's Day</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Happy Valentine's Day!</h1>
+    </header>
+    <img src="images/valentine.jpg" alt="Valentine's Day">
+    <footer>
+        <p>&copy; 2025 Ganesh032</p>
+    </footer>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #ffe6e6;
+    color: #ff3366;
+}
+h1 {
+    margin-top: 50px;
+}
+img {
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+}
+footer {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+}
